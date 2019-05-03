@@ -2,7 +2,7 @@
 
 **The Challenge**
 
-It's always tricky to know how much to tip, unless you're an arithmetic mastermind! Your task is to create a simple command-line application that will help calculate a tip at a restaurant for your server. No boilerplate code
+It's always tricky to know how much to tip, unless you're an arithmetic mastermind! Your task is to create a simple command-line (Node, Python or other) or front-end JavaScript application that will help calculate a tip at a restaurant for your server. No boilerplate code
 will be provided, so you are free to construct this however you would like.
 
 However, your application must:
