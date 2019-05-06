@@ -19,6 +19,11 @@ You are welcome to use this distribution of materials in any way you like. A cou
 - Work through each of the algorithm challenges, targeting the subject matter you feel weakest in
 - Use the workshop materials to review slides and the accompanying challenges
 
+Each algorithm challenge contains four files, they should be used in the following order:
+1. Unsolved... use this has your working file
+2. Pseudocode... use this to review your pseudocode
+3. Solved... use this to review a simple or logical solution
+4. Optimized... use this to review an optimized or more refined version of the solution
 
 ## What if I spot an issue?
 If you notice an issue or have a correction/refinement to any of the materials, please create an issue in the repository. This will be the quickest way to get the attention of our development team to work on it. Alternatively, you can issue a pull request against the repository with your correction.

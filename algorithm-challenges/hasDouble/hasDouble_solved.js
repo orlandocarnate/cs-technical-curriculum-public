@@ -1,3 +1,5 @@
+// THE CHALLENGE
+
 // In this assignment, the function should take an array of numbers and check whether its double exists in the array.
 
 // For example:

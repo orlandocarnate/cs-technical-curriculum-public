@@ -1,3 +1,5 @@
+// THE CHALLENGE
+
 // In this assignment, the function should take an array of numbers and check whether its double exists in the array.
 
 // For example:
@@ -5,12 +7,16 @@
 
 
 function hasDoubleWithNestedForLoop(array) {
-    // YOUR CODE HERE
+    //*************************/
+    //**** YOUR CODE HERE *****/
+    //*************************/
 }
 
 
 function hasDoubleWithIncludes(array) {
-    // YOUR CODE HERE
+    //*************************/
+    //**** YOUR CODE HERE *****/
+    //*************************/
 }
 
 console.log(hasDoubleWithNestedForLoop([1, 18, 3, 7, 9, 13])); // true

@@ -7,23 +7,26 @@ When you have that working, modify your program to print "FizzBuzz" for numbers 
 (This is actually an interview question that has been claimed to weed out a significant percentage of programmer candidates. So if you solved it, your labor market value just went up.)
 */
 
+function fizzBuzzRecursive(begin, end) {
+    // check whether begin number is greater than end number
+    if (begin > end) {
+        console.log('Recursive solution complete.');
+        return;
+    }
 
-function fizzBuzz() {
+    // complete fizzbuzz solution
+    if (begin % 3 == 0 && begin % 5 == 0) {
+        console.log('FizzBuzz');
+    } else if (begin % 3 == 0) {
+        console.log('Fizz');
+    } else if (begin % 5 == 0) {
+        console.log('Buzz');
+    } else {
+        console.log(begin);
+    }
 
-    // initialize a for loop to loop 100 times
-
-    // check if there are remainders when divisible by 3 or 5
-
-    // if not, console fizzbuzz
-
-    // check if there are remainders when divisible by just 3
-
-    // if not, console fizz
-
-    // check if there are remainders when divisible by just 5
-
-    // if not, console buzz
-
-    // otherwise, just print the index value
-
+    // call recursively
+    fizzBuzzRecursive(++begin, end);
 }
+
+fizzBuzzRecursive(80, 100);

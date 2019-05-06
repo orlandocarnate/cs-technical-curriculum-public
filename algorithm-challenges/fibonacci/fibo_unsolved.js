@@ -1,4 +1,4 @@
-// Fibonacci Sequence
+// THE CHALLENGE
 
 /* 
 The fibonacci sequence is perhaps one of the most famous algorithms,
@@ -15,14 +15,10 @@ of the previous two values or:
 F(n) = F(n-1) + F(n-2)
 */
 
-//*************************/
-//**** YOUR CODE HERE *****/
-//*************************/
+
 
 function fibonacci(num) {
-
-
+    //*************************/
+    //**** YOUR CODE HERE *****/
+    //*************************/
 }
-
-
-//*************************/
