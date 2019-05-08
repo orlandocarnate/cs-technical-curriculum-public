@@ -14,6 +14,7 @@ In this repository, you will find access to technical interviewing materials, co
     - Suggested coding challenge
 
 
+
 ## How to Use
 You are welcome to use this distribution of materials in any way you like. A couple of suggestions, though:
 - Work through each of the algorithm challenges, targeting the subject matter you feel weakest in
