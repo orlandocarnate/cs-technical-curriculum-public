@@ -5,14 +5,14 @@
 // For example:
 // If the array contains the number 2 and the number 4, then it would return true. Otherwise, false.
 
-function includesDoubleWithHashmap(array) {
+function includesDoubleWithHashmap(arr) {
     let doubles = {};
 
     let i = 0;
 
-    while (i < array.length) {
-        doubles[array[i]] = 'this text doesn not matter';
-        if (doubles[(array[i] * 2)] || doubles[(array[i] / 2)]) {
+    while (i < arr.length) {
+        doubles[arr[i]] = 'this text does not matter';
+        if (doubles[(arr[i] * 2)] || doubles[(arr[i] / 2)]) {
             return true;
         }
         // console.log('doubles: ' + JSON.stringify(doubles))
